@@ -28,7 +28,7 @@ To run this project, you will need to have Python installed on your machine. Fol
 To use the digit recognition system:
 1. Run the main script:
    ```
-   python main.py
+   python -m streamlit run app.py
    ```
 2. Follow the prompts to input images of handwritten digits.
 3. The system will output the predicted digit.
