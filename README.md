@@ -19,7 +19,12 @@ To run this project, you will need to have Python installed on your machine. Fol
    ```
    cd Digit-Recognition
    ```
-3. Install the required packages:
+3. Create virtual environment:
+    ```
+    conda create --name digit_env -y
+    conda activate digit_env
+    ```
+4. Install the required packages:
    ```
    pip install -r requirements.txt
    ```
