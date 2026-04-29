@@ -38,6 +38,9 @@ To use the digit recognition system:
 2. Follow the prompts to input images of handwritten digits.
 3. The system will output the predicted digit.
 
+## Demo
+<img width="693" height="692" alt="Screenshot 2026-04-29 203817" src="https://github.com/user-attachments/assets/301f63d4-1b06-4ab9-9bbe-a055bb8b62c7" />
+
 ## Contributions
 Contributions are welcome! Please open issues for any bugs or feature requests. Pull requests are also appreciated.
 
